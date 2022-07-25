@@ -3,7 +3,7 @@ let name;
 let unique;
 let textarea = document.querySelector('#textarea')
 let typing = document.querySelector('#typing')
-// let messageArea = document.querySelector('.message__area')
+
 do {
     name = prompt('Please enter your name: ')
     unique = prompt('Please enter your room id: ')
